@@ -19,6 +19,9 @@ and dealing with data.
 
 The project consists of an exploratory study on Machine Learning predictive models using Starbucks's data.
 
+An article for this project was written and published on Medium on the following url:
+https://higorpr.medium.com/an-exploratory-study-on-machine-learning-models-the-starbucks-case-study-660c02a4f2b7
+
 ## Contents <a name="contents"></a>
 
 This project's main folder contains:
@@ -113,3 +116,5 @@ and later comparison against the prediction models provided by Sklearn methods.
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Credits to Starbucks for the data, without it this project would have not been possible.
+
+Author: Higor Pêgas Rosa de Faria
