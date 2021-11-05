@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Table of Contents
 
 1. [Introduction](#introduction)
@@ -118,3 +119,7 @@ and later comparison against the prediction models provided by Sklearn methods.
 Credits to Starbucks for the data, without it this project would have not been possible.
 
 Author: Higor Pêgas Rosa de Faria
+=======
+# udacity_capstone_project_starbucks
+Repository for Capstone Project on Starbucks
+>>>>>>> d1bfd00ad45492ae5a04ef4c77aa93300076b1cd
