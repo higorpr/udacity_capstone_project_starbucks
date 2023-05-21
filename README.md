@@ -120,6 +120,3 @@ Credits to Starbucks for the data, without it this project would have not been p
 
 Author: Higor Pêgas Rosa de Faria
 =======
-# udacity_capstone_project_starbucks
-Repository for Capstone Project on Starbucks
->>>>>>> d1bfd00ad45492ae5a04ef4c77aa93300076b1cd
